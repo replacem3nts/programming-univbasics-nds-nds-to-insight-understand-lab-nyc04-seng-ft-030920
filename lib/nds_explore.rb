@@ -12,7 +12,7 @@ ss_movie_array = []
 row_index = 0
 shortcut = directors_database[0][:movies]
 while row_index < shortcut.length do
-  ss_movie_array << "#{shortcut[:name]}"
+  ss_movie_array << shortcut[:name]
 end
 row_index += 1
 ss_movie_array
