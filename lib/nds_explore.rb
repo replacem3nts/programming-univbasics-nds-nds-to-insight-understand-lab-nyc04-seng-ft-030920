@@ -10,6 +10,6 @@ end
 def print_first_directors_movie_titles
 spielberg_movie_array = []
 row_index = 0
-
+shortcut = directors_database[0][]
 
 end
