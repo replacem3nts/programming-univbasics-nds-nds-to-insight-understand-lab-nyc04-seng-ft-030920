@@ -15,4 +15,5 @@ while row_index < shortcut.length do
   ss_movie_array << "#{shortcut[:name]}"
 end
 row_index += 1
+ss_movie_array
 end
